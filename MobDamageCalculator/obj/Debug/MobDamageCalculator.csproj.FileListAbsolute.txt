@@ -1,0 +1,13 @@
+D:\Visual Stuidio 2015\MobDamageCalculator\TestApplication\bin\Debug\TestApplication.exe.config
+D:\Visual Stuidio 2015\MobDamageCalculator\TestApplication\obj\Debug\TestApplication.exe
+D:\Visual Stuidio 2015\MobDamageCalculator\TestApplication\obj\Debug\TestApplication.pdb
+D:\Visual Stuidio 2015\MobDamageCalculator\MobDamageCalculator\obj\Debug\MobDamageCalculator.Form1.resources
+D:\Visual Stuidio 2015\MobDamageCalculator\MobDamageCalculator\obj\Debug\MobDamageCalculator.csproj.GenerateResource.Cache
+D:\Visual Stuidio 2015\MobDamageCalculator\MobDamageCalculator\obj\Debug\MobDamageCalculator.csproj.CoreCompileInputs.cache
+D:\Visual Stuidio 2015\MobDamageCalculator\MobDamageCalculator\obj\Debug\MobDamageCalculator.csprojAssemblyReference.cache
+D:\Visual Stuidio 2015\MobDamageCalculator\MobDamageCalculator\bin\Debug\MobDamageCalculator.exe.config
+D:\Visual Stuidio 2015\MobDamageCalculator\MobDamageCalculator\bin\Debug\MobDamageCalculator.exe
+D:\Visual Stuidio 2015\MobDamageCalculator\MobDamageCalculator\bin\Debug\MobDamageCalculator.pdb
+D:\Visual Stuidio 2015\MobDamageCalculator\MobDamageCalculator\obj\Debug\MobDamageCalculator.Properties.Resources.resources
+D:\Visual Stuidio 2015\MobDamageCalculator\MobDamageCalculator\obj\Debug\MobDamageCalculator.exe
+D:\Visual Stuidio 2015\MobDamageCalculator\MobDamageCalculator\obj\Debug\MobDamageCalculator.pdb
